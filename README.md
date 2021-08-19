@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+智维保灵活用工系统源码，
 
-You can use the [editor on GitHub](https://github.com/dianbu/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1，支持自然人委托代征，支持集群注册
+2，支持电子合同，支持批量发放
+3，支持派单，支持抢单，支持工件
+4，支持多税源地
+5，独立监管平台，适用各地税局监管需求
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dianbu/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+智维保灵活用工系统由上海点步 www.ydoo.cn 开发并维护，需要完整代码请联系微信：ydoo12309。
